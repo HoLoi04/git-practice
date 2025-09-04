@@ -3,4 +3,7 @@
 # Git Practice
 Đây là README được chỉnh sửa từ nhánh conflict-demo.
 
+Nội dung đã kết hợp giữa main và feature-update-B.
+
+
 Giới thiệu: Tôi là <Ho Phuoc Loi>, MSSV <224453>.
