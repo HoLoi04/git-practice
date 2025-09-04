@@ -1,2 +1,3 @@
-Sở thích: Choi game
+Họ và tên: Hồ Phước Lợi
+Sở thích: Viết code
 Kỹ năng: Hello World
